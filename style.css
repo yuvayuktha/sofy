@@ -237,3 +237,200 @@ nav .search-box a i{
    color:rgb(114, 103, 103);
  }
  
+
+ 
+/* footer */
+.lion{
+    display: flex;
+    /* justify-self: unset; */
+    justify-content: space-around;
+}
+.shopsy p{
+    font-size: 22px;
+    line-break: 10px;
+}
+.mom a{
+    color:gray ;
+    /* list-style-type: none; */
+    text-decoration: none;  
+}
+.fat a{
+    color: gray;
+    text-decoration: none;
+}
+/* .talk h1 p{ */
+    /* color: grey; */
+/* } */
+.grey{
+    color: gray;
+}
+.oo{
+    font-size: 21px;
+}
+.fb{
+    border: 30px;
+    border-color: black;
+}
+.lion{
+    padding-bottom: 120px;
+    padding-top: 100px;
+}
+/* iconcentent*/
+/*   .... side line icons .....   */
+.icon-line{
+    border: 1px solid rgb(109, 107, 107); 
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.side-line{
+  background-color: rgb(236, 236, 236);
+
+}
+.icon-line .side-line{
+   display: flex;
+   justify-content:space-around;
+   align-items: center;
+   padding: 15px;
+}
+.side-line .one{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-left: -20px;
+   
+}
+.one i{
+ font-size: 35px;
+ padding-right: 9px; 
+}
+#one-1, #one-2, #one-3{
+   border-right: 2px solid rgb(138, 138, 138);
+} 
+.one .two p:first-child{
+  font-size: 16px;
+  font-weight: bolder;
+}
+.one .two p{
+  padding-right:15px;
+
+}
+.two .small-latter{
+   font-size: 13px;
+}
+.two i{
+  color:rgb(114, 103, 103);
+}
+.arrival{
+    font-size: 23px;
+}
+.user{
+    font-size: 70px;
+}
+.sea h1,a{
+    margin-top: -200px;
+    margin-left: 20px;
+}
+.worklist{
+    border: 2px solid black;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-decoration: none;
+    color: black;
+}
+.worklist:hover{
+    background-color:darkred;
+    color: black;
+    font-weight: bolder;
+    border: none;
+}
+.stared{
+    display: flex;
+    color: darkred;
+    padding-left: 65px;
+}
+.more{
+    color: darkred;
+    font-size: 22px;
+    padding-top: 190px;
+    padding-left: 500px;
+}
+.trending{
+    font-size: 50px;
+    font-weight: bolder;
+    /* padding-top: 570px; */
+    padding-left: 400px;
+
+}
+.rose{
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    color: darkred;
+}
+.lily p{
+    color: gray;
+}
+.tuf2{
+    padding-bottom: 200px;
+}
+.sectionweek{
+    padding-bottom: 100px;
+}
+.latestsection{
+    padding-bottom: 100px;
+    padding-top: 150px;
+}
+.fourthsection{
+    padding-bottom: 100px;
+    padding-top: 150px;
+}
+.fifthsection{
+    padding-top:100px ;
+    padding-bottom: 100px;
+}
+.firsthline{
+    padding-top: 100px;
+}
+.gt{
+    border: 2px black solid;
+}
+.pistha{
+    border: 2px black solid;
+    width: 400px;
+    height: 100px;
+    
+}
+.pistha1{
+    border: 2px black solid;
+    width: 400px;
+    height: 100px;
+}
+.pistha2{
+    border: 2px black solid;
+}
+.easy{
+    border: 2px black solid;
+    width: 260px;
+    height: 200px;
+    padding: 20px;
+}
+.wt{
+    border: 2px black solid;
+}
+.cl{
+    border: 2px black solid;
+}
+.easy{
+    width: 200px;
+}
+/* .imgtextcondent1{ */
+    /* padding-top: 20px; */
+/* /} */
+@media(max-width:1200px){
+ 
+}
